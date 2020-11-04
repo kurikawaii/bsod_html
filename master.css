@@ -1,3 +1,20 @@
 body {
     background-color: steelblue;
 }
+
+#content {
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    margin-top: 7%;
+}
+
+#content h1 {
+    font-size: 125px;
+    font-weight: lighter;
+    color: white;
+}
+
+#content p {
+    font-size: 25px;
+    color: white;
+}
