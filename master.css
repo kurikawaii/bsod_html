@@ -18,3 +18,16 @@ body {
     font-size: 25px;
     color: white;
 }
+
+.grid {
+    display: grid;
+}
+
+.grid img {
+    grid-column: 1;
+}
+
+.grid div {
+    grid-column: 2;
+    line-height: 25px;
+}
